@@ -33,5 +33,5 @@ pipeline:
             os: Linux
           runtime:
             spec: {}
-            type: Cloud
+            type: Docker
         type: CI
