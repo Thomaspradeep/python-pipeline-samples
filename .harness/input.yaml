@@ -25,7 +25,7 @@ inputSet:
                     type: BuildAndPushDockerRegistry
                     spec:
                       connectorRef: docker_Quickstart
-                      repo: krishi0408/pythonsample
+                      repo: thomaspradeep/harness
       - stage:
           identifier: Integration_test
           type: CI
