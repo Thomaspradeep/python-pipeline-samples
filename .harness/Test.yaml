@@ -32,3 +32,5 @@ pipeline:
                   spec:
                     shell: Sh
                     command: pwd
+        delegateSelectors:
+          - docker-delegate
